@@ -179,4 +179,4 @@ Covers all operations from cleaning to dashboard deployment.
 
 **Ayush Kumar**  
 B.Tech CSE | Data Analyst Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/ayush-kumar-41374a272) | [GitHub](https://github.com/your-profile)
+[LinkedIn]( http://www.linkedin.com/in/ayush-kumar-4137 ) | [GitHub]( https://github.com/CodeWithXayush )
