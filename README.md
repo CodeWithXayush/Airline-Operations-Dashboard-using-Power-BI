@@ -1,7 +1,8 @@
 
 # ✈️ Airline Operations Dashboard using Power BI
 
-![Power BI Dashboard](your_dashboard_image_link_if_any.png)
+![Power BI Dashboard](<img width="883" height="714" alt="image" src="https://github.com/user-attachments/assets/374591e5-e8a2-4486-9da3-73b401d9dbb7" />
+)
 
 ## 📌 Project Overview
 
